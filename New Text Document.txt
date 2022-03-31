@@ -1,0 +1,11 @@
+{
+    "name" : "product1",
+    "price" : 1200,
+    "description" : "this is sample products",
+    "category" : "laptop",
+    "images" : {
+        "public_id" : "sample image",
+        "url": "sample url"
+
+    }
+}
